@@ -1,0 +1,12 @@
+total 248
+drwxr-xr-x  11 samsondevol  staff    352 Jan 30 20:22 .
+drwxr-xr-x   8 samsondevol  staff    256 Jan 26 10:22 ..
+drwxr-xr-x  12 samsondevol  staff    384 Jan 26 10:26 .git
+-rw-r--r--@  1 samsondevol  staff    185 Jan 26 10:31 Makefile
+-rw-r--r--   1 samsondevol  staff    164 Jan 26 10:26 README.md
+-rw-------   1 samsondevol  staff    200 Jan 26 10:51 file1.out
+-rw-r--r--   1 samsondevol  staff      0 Jan 30 20:22 foo.txt
+-rwxr-xr-x   1 samsondevol  staff  49688 Jan 30 20:18 lswc
+-rw-r--r--   1 samsondevol  staff    904 Jan 30 20:17 lswc.c
+-rwxr-xr-x   1 samsondevol  staff  49984 Jan 30 20:22 redirout
+-rw-r--r--   1 samsondevol  staff   1411 Jan 30 20:22 redirout.c
