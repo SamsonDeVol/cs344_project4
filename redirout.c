@@ -10,7 +10,7 @@ int main(int argc, char *argv[]){
 
   // check for correct number of arguments
   if (argc < 3){
-    printf("not enough arguments");
+    printf("not enough arguments, correct format is: ./redirout (output file) (commands)");
     exit(1);
   }
 
